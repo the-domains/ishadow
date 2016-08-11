@@ -1,0 +1,14 @@
+layout_spectrum: 0.10618244693614542
+typography_spectrum: 0.35504636517725885
+color:
+  brandStrength: 0.42752571450546384
+  lightness: 0.2968361424282193
+  saturation: 0.9485175113659352
+  rhythmicContrast: 0.8403781722299755
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: iShadow
